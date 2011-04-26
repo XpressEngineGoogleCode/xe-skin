@@ -1,0 +1,1 @@
+This is xe-skin svn repository
